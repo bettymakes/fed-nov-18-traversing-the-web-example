@@ -260,6 +260,9 @@ a {
   .header-block {
     grid-template-columns: 1fr;
     position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
   }
 
   ul.mainmenu {
